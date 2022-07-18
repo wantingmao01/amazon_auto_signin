@@ -8,4 +8,4 @@ This is a practice for web scraping using Xpath and the python package, selenniu
 4. Run it in terminal and enjoy auto sign in!
 
 ## Something to notice
-This repo may only fit a specific verson of the webpage, ex. the sign in bar is at a particular place. For my own experience, if you get on amazon for multiple times in a small time period, amazon may lead you to another version of its webpage.
+This repo may only fit a specific verson of the webpage. For instance, the sign in bar is at a particular place. For my own experience, if you get on amazon for multiple times in a small time period, you may be led to another version of its webpage.
