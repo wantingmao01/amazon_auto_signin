@@ -3,8 +3,8 @@ This is a practice for web scraping using Xpath and the python package, selenniu
 
 ## How to run it?
 1. Download amazon_signin.py
-2. Make sure you have Chrome
-3. At line 14 and 20, for strings, "EMAIL or USER_NAME" and "PASSWORD", please replace them with your own email/amazon username and password.
+2. At line 14 and 20, for strings, "EMAIL or USER_NAME" and "PASSWORD", please replace them with your own email/amazon username and password.
+3. Make sure you have Chrome.
 4. Run it in terminal and enjoy auto sign in!
 
 ## Something to notice
